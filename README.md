@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Komi ABOTSITSE
-- 👀 I’m interested in machine learning science 
-- 🌱 I’m currently learning data analysis with Python since i'm a beginner
-- 💞️ I’m looking to collaborate on project related to data wrangling 
+- 👀 My interest are in machine learning, Artificial Intelligence and data science 
+- 🌱 I’m currently learning data analysis with Python and R
+- 💞️ I’m looking to collaborate on project related to data science
 - 📫 How to reach me davabotsitse@gmail.com
 
 <!---
