@@ -1,52 +1,48 @@
-## Hi there, I'm Komi David ABOTSITSE  👋
+## Bonjour, je suis Komi David ABOTSITSE 👋
 
-
-<!-- 🔗 Update these links with your own social media and contact information -->
+<!-- 🔗 Mettez à jour ces liens avec vos réseaux sociaux et vos informations de contact -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/komiabotsitse/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/komiabotsitse/"><img src="https://img.shields.io/badge/LinkedIn-Connexion-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:davabotsitse@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+## 🚀 À propos de moi
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+Je suis analyste en intelligence d'affaires passionné par la valorisation des données et l'aide à la prise de décision. J'aime transformer des données complexes et hétérogènes en tableaux de bord clairs, en indicateurs pertinents et en informations exploitables.
 
-When I'm not working with data, I enjoy watching football competition. I love the "aha!" moment when data reveals something new and useful.
+Mon objectif est de concevoir des solutions Power BI modernes, d'automatiser les tâches répétitives afin d'améliorer l'efficacité des équipes et de développer des modèles de données qui soutiennent les décisions stratégiques.
 
+En dehors de l'analyse de données, je suis passionné de football et j'apprécie particulièrement le moment où les données révèlent des tendances ou des opportunités qui n'étaient pas visibles au premier regard.
 
-## 🔭 What I'm Currently Working On 
+## 🔭 Ce sur quoi je travaille actuellement
 
-- **Project A:** Building a superstore sales dashboard in Power BI.  
-- **Project B:** Creating an interactive E-commerce dashboard in Power BI.
+- **Projet A :** Développement d'un tableau de bord interactif des ventes (Superstore) avec Power BI.
+- **Projet B :** Création d'un tableau de bord E-commerce interactif avec Power BI.
 
+## 🌱 Ce que j'apprends actuellement
 
-## 🌱 Currently Learning 
+- L'entreposage de données infonuagique (Cloud Data Warehousing) avec Microsoft Azure.
 
--  Cloud data warehousing with Microsoft Azure.
+## 🛠️ Compétences techniques
 
-## 🛠️ Technical Skillset
+<!-- Cette section utilise les badges Shields.io. Vous pouvez les personnaliser selon vos besoins. -->
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
-#### Data Analysis & Visualization
+#### Analyse et visualisation de données
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
- 
+  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="Badge SQL">
+  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Badge Power BI">
+  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Badge Excel">
 </p>
 
-#### Programming & Automation
+#### Programmation et automatisation
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Badge Python">
 </p>
 
-#### Business Intelligence & Analytics
+#### Intelligence d'affaires et analytique
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="Badge A/B Testing">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Badge Analyse statistique">
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Badge Modélisation prédictive">
+  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="Badge Développement de KPI">
 </p>
